@@ -19,4 +19,6 @@
 
 ---
 http://t.me/kronborg_bot
+![Иллюстрация к проекту]([https://example.com/image.png](https://github.com/irinakronborg/AI-Assistant/blob/main/%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0%20(4).jpg?raw=true)
+
 Проект демонстрирует, как современные AI-технологии могут повысить качество обслуживания клиентов и автоматизировать рутинные задачи в сфере HoReCa.
